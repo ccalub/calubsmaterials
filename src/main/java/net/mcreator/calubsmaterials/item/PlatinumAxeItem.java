@@ -1,12 +1,6 @@
 
 package net.mcreator.calubsmaterials.item;
 
-import net.minecraft.world.item.crafting.Ingredient;
-import net.minecraft.world.item.Tier;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.AxeItem;
-
 import net.mcreator.calubsmaterials.init.CalubsMaterialsModTabs;
 import net.mcreator.calubsmaterials.init.CalubsMaterialsModItems;
 import net.mcreator.calubsmaterials.init.CalubsMaterialsModBlocks;
