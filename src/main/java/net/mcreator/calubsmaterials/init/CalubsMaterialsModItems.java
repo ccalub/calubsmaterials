@@ -4,15 +4,6 @@
  */
 package net.mcreator.calubsmaterials.init;
 
-import net.minecraftforge.registries.RegistryObject;
-import net.minecraftforge.registries.ForgeRegistries;
-import net.minecraftforge.registries.DeferredRegister;
-
-import net.minecraft.world.level.block.Block;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.BlockItem;
-
 import net.mcreator.calubsmaterials.item.UltinumSwordItem;
 import net.mcreator.calubsmaterials.item.UltinumShovelItem;
 import net.mcreator.calubsmaterials.item.UltinumPickaxeItem;
