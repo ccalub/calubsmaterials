@@ -1644,75 +1644,12 @@
       "path": "~/Tags"
     },
     {
-      "name": "Ingotsaluminum",
+      "name": "Oressilver",
       "type": "tag",
-      "sortid": 184,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ingotsaluminum",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotssteel",
-      "type": "tag",
-      "sortid": 185,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotssteel",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotssilver",
-      "type": "tag",
-      "sortid": 186,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotssilver",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotstungsten",
-      "type": "tag",
-      "sortid": 187,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotstungsten",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotsosmium",
-      "type": "tag",
-      "sortid": 188,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotsosmium",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotstitanium",
-      "type": "tag",
-      "sortid": 189,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotstitanium",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotsplatinum",
-      "type": "tag",
-      "sortid": 190,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotsplatinum",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ingotslead",
-      "type": "tag",
-      "sortid": 191,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingotslead",
+      "registry_name": "oressilver",
       "path": "~/Tags"
     },
     {
@@ -1725,33 +1662,6 @@
       "path": "~/Tags"
     },
     {
-      "name": "Oresaluminum",
-      "type": "tag",
-      "sortid": 193,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "oresaluminum",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Orestitanium",
-      "type": "tag",
-      "sortid": 194,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "orestitanium",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Oreslead",
-      "type": "tag",
-      "sortid": 196,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "oreslead",
-      "path": "~/Tags"
-    },
-    {
       "name": "Oresplatinum",
       "type": "tag",
       "sortid": 197,
@@ -1761,12 +1671,39 @@
       "path": "~/Tags"
     },
     {
-      "name": "Oressilver",
+      "name": "Ingotstitanium",
       "type": "tag",
-      "sortid": 198,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "oressilver",
+      "registry_name": "ingotstitanium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotsosmium",
+      "type": "tag",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotsosmium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotsplatinum",
+      "type": "tag",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotsplatinum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotssilver",
+      "type": "tag",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotssilver",
       "path": "~/Tags"
     },
     {
@@ -1779,12 +1716,201 @@
       "path": "~/Tags"
     },
     {
+      "name": "Oreslead",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oreslead",
+      "path": "~/Tags"
+    },
+    {
       "name": "Oresosmium",
       "type": "tag",
       "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oresosmium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotsaluminum",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotsaluminum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Orestitanium",
+      "type": "tag",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "orestitanium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotssteel",
+      "type": "tag",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotssteel",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotslead",
+      "type": "tag",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotslead",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingotstungsten",
+      "type": "tag",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingotstungsten",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Oresaluminum",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oresaluminum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialstungsten",
+      "type": "tag",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialstungsten",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialssilver",
+      "type": "tag",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialssilver",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksplatinum",
+      "type": "tag",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksplatinum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockssilver",
+      "type": "tag",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockssilver",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialslead",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialslead",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksosmium",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksosmium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialsosmium",
+      "type": "tag",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialsosmium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksaluminum",
+      "type": "tag",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksaluminum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockssteel",
+      "type": "tag",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockssteel",
+      "path": "~/Tags"
+    },
+    {
+      "name": "BeaconPaymentItems",
+      "type": "tag",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_payment_items",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockstitanium",
+      "type": "tag",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockstitanium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockslead",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockslead",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksultinum",
+      "type": "tag",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksultinum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockstungsten",
+      "type": "tag",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockstungsten",
       "path": "~/Tags"
     }
   ],
@@ -1895,7 +2021,7 @@
     "name": "~",
     "children": [
       {
-        "name": "Titanium",
+        "name": "Lead",
         "children": []
       },
       {
@@ -1903,11 +2029,7 @@
         "children": []
       },
       {
-        "name": "Lead",
-        "children": []
-      },
-      {
-        "name": "Silver",
+        "name": "Titanium",
         "children": []
       },
       {
@@ -1915,15 +2037,7 @@
         "children": []
       },
       {
-        "name": "Tungsten",
-        "children": []
-      },
-      {
         "name": "Osmium",
-        "children": []
-      },
-      {
-        "name": "Ultinum",
         "children": []
       },
       {
@@ -1932,6 +2046,18 @@
       },
       {
         "name": "Aluminum",
+        "children": []
+      },
+      {
+        "name": "Silver",
+        "children": []
+      },
+      {
+        "name": "Tungsten",
+        "children": []
+      },
+      {
+        "name": "Ultinum",
         "children": []
       }
     ]

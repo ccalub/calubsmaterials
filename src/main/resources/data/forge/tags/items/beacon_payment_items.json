@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "calubs_materials:platinum_ingot",
+    "calubs_materials:ultinum_ingot",
+    "calubs_materials:titanium_ingot",
+    "calubs_materials:steel_ingot",
+    "calubs_materials:tungsten_ingot",
+    "calubs_materials:lead_ingot",
+    "calubs_materials:silver_ingot",
+    "calubs_materials:osmium_ingot"
+  ]
+}
