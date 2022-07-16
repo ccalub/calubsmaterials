@@ -390,7 +390,7 @@
       "name": "DeepslateTitaniumOre",
       "type": "block",
       "sortid": 24,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "deepslate_titanium_ore",
       "path": "~/Titanium"
@@ -399,7 +399,7 @@
       "name": "DeepslatePlatinumOre",
       "type": "block",
       "sortid": 25,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "deepslate_platinum_ore",
       "path": "~/Platinum"
@@ -408,7 +408,7 @@
       "name": "DeepslateLeadOre",
       "type": "block",
       "sortid": 26,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "deepslate_lead_ore",
       "path": "~/Lead"
@@ -417,7 +417,7 @@
       "name": "DeepslateTungstenOre",
       "type": "block",
       "sortid": 27,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "deepslate_tungsten_ore",
       "path": "~/Tungsten"
@@ -426,7 +426,7 @@
       "name": "DeepslateOsmiumOre",
       "type": "block",
       "sortid": 28,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "deepslate_osmium_ore",
       "path": "~/Osmium"
@@ -1407,7 +1407,7 @@
       "name": "AluminumOre",
       "type": "block",
       "sortid": 17,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "aluminum_ore",
       "path": "~/Aluminum"
@@ -1458,7 +1458,7 @@
       "name": "AluminumBlock",
       "type": "block",
       "sortid": 29,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "aluminum_block",
       "path": "~/Aluminum"
