@@ -1678,6 +1678,87 @@
       "locked_code": false,
       "registry_name": "rawmaterialsosmium",
       "path": "~/Tags"
+    },
+    {
+      "name": "Blocksaluminum",
+      "type": "tag",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksaluminum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockstitanium",
+      "type": "tag",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockstitanium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksplatinum",
+      "type": "tag",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksplatinum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockssilver",
+      "type": "tag",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockssilver",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockslead",
+      "type": "tag",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockslead",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockssteel",
+      "type": "tag",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockssteel",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blockstungsten",
+      "type": "tag",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockstungsten",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksosmium",
+      "type": "tag",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksosmium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocksultinum",
+      "type": "tag",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocksultinum",
+      "path": "~/Tags"
     }
   ],
   "variable_elements": [],
