@@ -1590,33 +1590,6 @@
       "path": "~/Tags"
     },
     {
-      "name": "Ingots",
-      "type": "tag",
-      "sortid": 178,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ingots",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Blocks",
-      "type": "tag",
-      "sortid": 179,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blocks",
-      "path": "~/Tags"
-    },
-    {
-      "name": "Ores",
-      "type": "tag",
-      "sortid": 180,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "ores",
-      "path": "~/Tags"
-    },
-    {
       "name": "Rawmaterialsaluminum",
       "type": "tag",
       "sortid": 181,
@@ -1911,6 +1884,33 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "blockstungsten",
+      "path": "~/Tags"
+    },
+    {
+      "name": "IngotsTag",
+      "type": "tag",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingots_tag",
+      "path": "~/Tags"
+    },
+    {
+      "name": "OresTag",
+      "type": "tag",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores_tag",
+      "path": "~/Tags"
+    },
+    {
+      "name": "BlocksTag",
+      "type": "tag",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocks_tag",
       "path": "~/Tags"
     }
   ],
