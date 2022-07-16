@@ -1759,6 +1759,15 @@
       "locked_code": false,
       "registry_name": "blocksultinum",
       "path": "~/Tags"
+    },
+    {
+      "name": "BeaconPaymentItems",
+      "type": "tag",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_payment_items",
+      "path": "~/Tags"
     }
   ],
   "variable_elements": [],
