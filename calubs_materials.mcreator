@@ -1642,6 +1642,42 @@
       "locked_code": false,
       "registry_name": "rawmaterialsplatinum",
       "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialslead",
+      "type": "tag",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialslead",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialssilver",
+      "type": "tag",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialssilver",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialstungsten",
+      "type": "tag",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialstungsten",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialsosmium",
+      "type": "tag",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialsosmium",
+      "path": "~/Tags"
     }
   ],
   "variable_elements": [],
