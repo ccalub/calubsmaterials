@@ -1,0 +1,34 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_sword",
+    "customModelName": "Normal",
+    "name": "Titanium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CcalubsMaterials"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 1.4000000000000001,
+    "enchantability": 5,
+    "damageVsEntity": 6.5,
+    "usageCount": 2200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

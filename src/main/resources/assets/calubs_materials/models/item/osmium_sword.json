@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "calubs_materials:items/osmium_sword"
+  }
+}

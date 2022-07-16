@@ -1,0 +1,34 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_pickaxe",
+    "customModelName": "Normal",
+    "name": "Silver Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CcalubsMaterials"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 3.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:SilverBlock"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

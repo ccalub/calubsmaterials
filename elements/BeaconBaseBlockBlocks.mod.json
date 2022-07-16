@@ -1,0 +1,38 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      },
+      {
+        "value": "CUSTOM:PlatinumBlock"
+      },
+      {
+        "value": "CUSTOM:LeadBlock"
+      },
+      {
+        "value": "CUSTOM:SilverBlock"
+      },
+      {
+        "value": "CUSTOM:SteelBlock"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:OsmiumBlock"
+      },
+      {
+        "value": "CUSTOM:UltinumBlock"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "beacon_base_blocks",
+    "namespace": "minecraft"
+  }
+}

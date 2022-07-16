@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "calubs_materials:aluminum_ore",
+    "calubs_materials:titanium_ore",
+    "calubs_materials:platinum_ore",
+    "calubs_materials:lead_ore",
+    "calubs_materials:silver_ore",
+    "calubs_materials:tungsten_ore",
+    "calubs_materials:osmium_ore",
+    "calubs_materials:deepslate_titanium_ore",
+    "calubs_materials:deepslate_platinum_ore",
+    "calubs_materials:deepslate_lead_ore",
+    "calubs_materials:deepslate_tungsten_ore",
+    "calubs_materials:deepslate_osmium_ore",
+    "calubs_materials:aluminum_block",
+    "calubs_materials:titanium_block",
+    "calubs_materials:platinum_block",
+    "calubs_materials:lead_block",
+    "calubs_materials:silver_block",
+    "calubs_materials:steel_block",
+    "calubs_materials:tungsten_block",
+    "calubs_materials:osmium_block",
+    "calubs_materials:ultinum_block"
+  ]
+}

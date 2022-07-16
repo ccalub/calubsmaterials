@@ -1,0 +1,34 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "titanium_axe",
+    "customModelName": "Normal",
+    "name": "Titanium Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CcalubsMaterials"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 6.0,
+    "usageCount": 2200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

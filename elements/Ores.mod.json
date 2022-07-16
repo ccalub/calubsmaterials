@@ -1,0 +1,50 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TitaniumOre"
+      },
+      {
+        "value": "CUSTOM:PlatinumOre"
+      },
+      {
+        "value": "CUSTOM:LeadOre"
+      },
+      {
+        "value": "CUSTOM:SilverOre"
+      },
+      {
+        "value": "CUSTOM:TungstenOre"
+      },
+      {
+        "value": "CUSTOM:OsmiumOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateTitaniumOre"
+      },
+      {
+        "value": "CUSTOM:DeepslatePlatinumOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateLeadOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateTungstenOre"
+      },
+      {
+        "value": "CUSTOM:DeepslateOsmiumOre"
+      },
+      {
+        "value": "CUSTOM:AluminumOre"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ores",
+    "namespace": "forge"
+  }
+}

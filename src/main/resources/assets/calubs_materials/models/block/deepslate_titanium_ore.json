@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "calubs_materials:blocks/titanium_deepslate_ore",
+    "particle": "calubs_materials:blocks/titanium_deepslate_ore"
+  }
+}

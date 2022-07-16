@@ -1,0 +1,1815 @@
+{
+  "mod_elements": [
+    {
+      "name": "CcalubsMaterials",
+      "type": "tab",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calubs_materials"
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "LeadIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot",
+      "path": "~/Lead"
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot",
+      "path": "~/Steel"
+    },
+    {
+      "name": "TungstenIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_ingot",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "OsmiumIngot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "UltinumIngot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_ingot",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "RawTitanium",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_titanium",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "RawPlatinum",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_platinum",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "RawLead",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lead",
+      "path": "~/Lead"
+    },
+    {
+      "name": "RawSilver",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_silver",
+      "path": "~/Silver"
+    },
+    {
+      "name": "RawTungsten",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_tungsten",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "RawOsmium",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_osmium",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumOre",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ore",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "TitaniumOreFortune",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumOreFortune",
+      "type": "procedure",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ore_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Platinum"
+    },
+    {
+      "name": "LeadOre",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore",
+      "path": "~/Lead"
+    },
+    {
+      "name": "LeadOreFortune",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Lead"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverOreFortune",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Silver"
+    },
+    {
+      "name": "TungstenOre",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_ore",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenOreFOrtune",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_ore_f_ortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "OsmiumOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ore",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumOreFortune",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ore_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Osmium"
+    },
+    {
+      "name": "DeepslateTitaniumOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_titanium_ore",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "DeepslatePlatinumOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_platinum_ore",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "DeepslateLeadOre",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_lead_ore",
+      "path": "~/Lead"
+    },
+    {
+      "name": "DeepslateTungstenOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_tungsten_ore",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "DeepslateOsmiumOre",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslate_osmium_ore",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumBlock",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_block",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "LeadBlock",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block",
+      "path": "~/Lead"
+    },
+    {
+      "name": "SilverBlock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_block",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block",
+      "path": "~/Steel"
+    },
+    {
+      "name": "TungstenBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_block",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "OsmiumBlock",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_block",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "UltinumBlock",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_block",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "TitaniumRawToIngot",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_raw_to_ingot",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumOreToIngot",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_to_ingot",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumDOreToIngot",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_d_ore_to_ingot",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToBlock",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_block",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumRawToIngot",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_raw_to_ingot",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumOreToIngot",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ore_to_ingot",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumDOreToIngot",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_d_ore_to_ingot",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToBlock",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_block",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "LeadRawToIngot",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_raw_to_ingot",
+      "path": "~/Lead"
+    },
+    {
+      "name": "LeadOreToIngot",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_to_ingot",
+      "path": "~/Lead"
+    },
+    {
+      "name": "LeadDOreToIngot",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_d_ore_to_ingot",
+      "path": "~/Lead"
+    },
+    {
+      "name": "LeadIngotToBlock",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot_to_block",
+      "path": "~/Lead"
+    },
+    {
+      "name": "SilverRawToIngot",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_raw_to_ingot",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverOreToIngot",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore_to_ingot",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToBlock",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_block",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SteelIngotToBlock",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_ingot_to_block",
+      "path": "~/Steel"
+    },
+    {
+      "name": "TungstenRawToIngot",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_raw_to_ingot",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenOreToIngo",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_ore_to_ingo",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenDOreToIngot",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_d_ore_to_ingot",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenIngotToBlock",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_ingot_to_block",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "OsmiumRawToIngot",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_raw_to_ingot",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumOreToIngot",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ore_to_ingot",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumDOreToIngot",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_d_ore_to_ingot",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumIngotToBlock",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_ingot_to_block",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "Ultinum",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumIngotToBlock",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_ingot_to_block",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToPickaxe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_pickaxe",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToSword",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_sword",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToAxr",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_axr",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToAxe2",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_axe_2",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumIngotToShovel",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot_to_shovel",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "TitaniumBlockToIngot",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block_to_ingot",
+      "path": "~/Titanium"
+    },
+    {
+      "name": "PlatinumPickaxe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_pickaxe",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumSword",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_sword",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_axe",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumShovel",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_shovel",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToPickaxe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_pickaxe",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToSword",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_sword",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToAxe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_axe",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToAxe2",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_axe_2",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumIngotToShovel",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_ingot_to_shovel",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "PlatinumBlockToIngot",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platinum_block_to_ingot",
+      "path": "~/Platinum"
+    },
+    {
+      "name": "SilverPickaxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_pickaxe",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_sword",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_axe",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverShovel",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_shovel",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToPickaxe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_pickaxe",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToSword",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_sword",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToAxe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_axe",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToAxe2",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_axe_2",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverIngotToShovel",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot_to_shovel",
+      "path": "~/Silver"
+    },
+    {
+      "name": "SilverBlockToIngot",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_block_to_ingot",
+      "path": "~/Silver"
+    },
+    {
+      "name": "LeadBlockToIngot",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_to_ingot",
+      "path": "~/Lead"
+    },
+    {
+      "name": "SteelPickaxe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_pickaxe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelSword",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_sword",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelAxe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_axe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelShovel",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_shovel",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelToPickaxe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_to_pickaxe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelToSword",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_to_sword",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelToAxe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_to_axe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelToAxe2",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_to_axe_2",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelToShovel",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_to_shovel",
+      "path": "~/Steel"
+    },
+    {
+      "name": "SteelBlockToIngot",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_block_to_ingot",
+      "path": "~/Steel"
+    },
+    {
+      "name": "TungstenPickaxe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_pickaxe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenSword",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_sword",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenAxe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_axe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenShovel",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_shovel",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenToPickaxe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_to_pickaxe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenToSword",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_to_sword",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenToAxeL",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_to_axe_l",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenToAxeR",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_to_axe_r",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenToShovel",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_to_shovel",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenBlockToIngot",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_block_to_ingot",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "OsmiumPickaxe",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_pickaxe",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumSword",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_sword",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumAxe",
+      "type": "tool",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_axe",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumShovel",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_shovel",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumToPickaxe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_to_pickaxe",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumToSword",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_to_sword",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumToAxeL",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_to_axe_l",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumToAxeR",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_to_axe_r",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumToShovel",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_to_shovel",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "OsmiumBlockToIngot",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "osmium_block_to_ingot",
+      "path": "~/Osmium"
+    },
+    {
+      "name": "UltinumPickaxe",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_pickaxe",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumSword",
+      "type": "tool",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_sword",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumAxe",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_axe",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumShovel",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_shovel",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumToPickaxe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_to_pickaxe",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "BeaconBaseBlockBlocks",
+      "type": "tag",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beacon_base_block_blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "UltinumToSwor",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_to_swor",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumToAxeL",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_to_axe_l",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumToAxeR",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_to_axe_r",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumToShovel",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_to_shovel",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "UltinumBlockToIngot",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultinum_block_to_ingot",
+      "path": "~/Ultinum"
+    },
+    {
+      "name": "AluminumIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_ingot",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "RawAluminum",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_aluminum",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumOre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_ore",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumFortune",
+      "type": "procedure",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_fortune",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumPickaxe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_pickaxe",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumBlock",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_block",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumSword",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_sword",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumAxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_axe",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumShovel",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_shovel",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumRawToIngot",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_raw_to_ingot",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumOreToIngot",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_ore_to_ingot",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumIngotToBlock",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_ingot_to_block",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumBlockToIngot",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_block_to_ingot",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumToPickaxe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_to_pickaxe",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumToSword",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_to_sword",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumToAxe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_to_axe",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumToAxe2",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_to_axe_2",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "AluminumToShovel",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum_to_shovel",
+      "path": "~/Aluminum"
+    },
+    {
+      "name": "SteelRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steel_recipe",
+      "path": "~/Steel"
+    },
+    {
+      "name": "Rawmaterials",
+      "type": "tag",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterials",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ingots",
+      "type": "tag",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ingots",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Blocks",
+      "type": "tag",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blocks",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Ores",
+      "type": "tag",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ores",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialsaluminum",
+      "type": "tag",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialsaluminum",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialstitanium",
+      "type": "tag",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialstitanium",
+      "path": "~/Tags"
+    },
+    {
+      "name": "Rawmaterialsplatinum",
+      "type": "tag",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawmaterialsplatinum",
+      "path": "~/Tags"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.calubs_materials.aluminum_block": "Aluminum Block",
+      "block.ccalubs_materials.deepslate_platinum_ore": "Deepslate Platinum Ore",
+      "item.calubs_materials.osmium_ingot": "Osmium Ingot",
+      "block.ccalubs_materials.aluminium_ore": "Aluminium Ore",
+      "block.calubs_materials.platinum_ore": "Platinum Ore",
+      "block.ccalubs_materials.titanium_ore": "Titanium Ore",
+      "item.calubs_materials.steel_sword": "Steel Sword",
+      "block.calubs_materials.lead_block": "Lead Block",
+      "item.calubs_materials.steel_ingot": "Steel Ingot",
+      "block.ccalubs_materials.deepslate_lead_ore": "Deepslate Lead Ore",
+      "item.calubs_materials.raw_platinum": "Raw Platinum",
+      "item.ccalubs_materials.tungsten_ingot": "Tungsten Ingot",
+      "item.calubs_materials.silver_axe": "Silver Axe",
+      "item.ccalubs_materials.aluminium_ingot": "Aluminium Ingot",
+      "item.ccalubs_materials.raw_platinum": "Raw Platinum",
+      "block.ccalubs_materials.osmium_ore": "Osmium Ore",
+      "block.calubs_materials.deepslate_platinum_ore": "Deepslate Platinum Ore",
+      "block.calubs_materials.platinum_block": "Platinum Block",
+      "item.calubs_materials.silver_sword": "Silver Sword",
+      "block.calubs_materials.titanium_block": "Titanium Block",
+      "item.calubs_materials.aluminum_sword": "Aluminum Sword",
+      "item.calubs_materials.osmium_shovel": "Osmium Shovel",
+      "item.ccalubs_materials.raw_osmium": "Raw Osmium",
+      "item.calubs_materials.steel_axe": "Steel Axe",
+      "item.calubs_materials.titanium_pickaxe": "Titanium Pickaxe",
+      "item.calubs_materials.osmium_pickaxe": "Osmium Pickaxe",
+      "item.calubs_materials.titanium_shovel": "Titanium Shovel",
+      "item.calubs_materials.tungsten_axe": "Tungsten Axe",
+      "item.calubs_materials.titanium_sword": "Titanium Sword",
+      "block.calubs_materials.silver_ore": "Silver Ore",
+      "block.calubs_materials.osmium_block": "Osmium Block",
+      "block.calubs_materials.titanium_ore": "Titanium Ore",
+      "block.calubs_materials.steel_block": "Steel Block",
+      "block.ccalubs_materials.lead_ore": "Lead Ore",
+      "item.ccalubs_materials.raw_tungsten": "Raw Tungsten",
+      "item.ccalubs_materials.titanium_ingot": "Titanium Ingot",
+      "item.calubs_materials.raw_tungsten": "Raw Tungsten",
+      "block.calubs_materials.lead_ore": "Lead Ore",
+      "item.calubs_materials.silver_ingot": "Silver Ingot",
+      "item.calubs_materials.steel_pickaxe": "Steel Pickaxe",
+      "item.ccalubs_materials.silver_ingot": "Silver Ingot",
+      "item.calubs_materials.platinum_ingot": "Platinum Ingot",
+      "block.calubs_materials.deepslate_osmium_ore": "Deepslate Osmium Ore",
+      "item.calubs_materials.titanium_ingot": "Titanium Ingot",
+      "block.calubs_materials.silver_block": "Silver Block",
+      "item.ccalubs_materials.raw_aluminium": "Raw Aluminium",
+      "item.calubs_materials.tungsten_sword": "Tungsten Sword",
+      "block.calubs_materials.tungsten_ore": "Tungsten Ore",
+      "item.calubs_materials.ultinum_axe": "Ultinum Axe",
+      "item.ccalubs_materials.raw_silver": "Raw Silver",
+      "item.calubs_materials.lead_ingot": "Lead Ingot",
+      "item.calubs_materials.raw_aluminum": "Raw Aluminum",
+      "block.ccalubs_materials.tungsten_ore": "Tungsten Ore",
+      "item.calubs_materials.aluminum_shovel": "Aluminum Shovel",
+      "item.calubs_materials.raw_osmium": "Raw Osmium",
+      "item.calubs_materials.platinum_shovel": "Platinum Shovel",
+      "item.calubs_materials.ultinum_shovel": "Ultinum Shovel",
+      "item.calubs_materials.silver_pickaxe": "Silver Pickaxe",
+      "item.ccalubs_materials.raw_lead": "Raw Lead",
+      "item.calubs_materials.platinum_sword": "Platinum Sword",
+      "item.calubs_materials.ultinum_ingot": "Ultinum Ingot",
+      "itemGroup.tabccalubs_materials": "Ccalubs Materials",
+      "item.calubs_materials.raw_lead": "Raw Lead",
+      "item.ccalubs_materials.ultinum_ingot": "Ultinum Ingot",
+      "item.calubs_materials.silver_shovel": "Silver Shovel",
+      "item.calubs_materials.tungsten_shovel": "Tungsten Shovel",
+      "itemGroup.tabcalubs_materials": "Calubs Materials",
+      "item.ccalubs_materials.steel_ingot": "Steel Ingot",
+      "item.calubs_materials.ultinum_pickaxe": "Ultinum Pickaxe",
+      "item.calubs_materials.aluminum_axe": "Aluminum Axe",
+      "item.ccalubs_materials.osmium_ingot": "Osmium Ingot",
+      "item.calubs_materials.aluminum_pickaxe": "Aluminum Pickaxe",
+      "block.calubs_materials.deepslate_titanium_ore": "Deepslate Titanium Ore",
+      "item.ccalubs_materials.lead_ingot": "Lead Ingot",
+      "item.ccalubs_materials.raw_titanium": "Raw Titanium",
+      "item.calubs_materials.tungsten_ingot": "Tungsten Ingot",
+      "item.ccalubs_materials.platinum_ingot": "Platinum Ingot",
+      "block.ccalubs_materials.silver_ore": "Silver Ore",
+      "item.calubs_materials.titanium_axe": "Titanium Axe",
+      "item.calubs_materials.raw_silver": "Raw Silver",
+      "item.calubs_materials.tungsten_pickaxe": "Tungsten Pickaxe",
+      "block.calubs_materials.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+      "item.calubs_materials.osmium_sword": "Osmium Sword",
+      "block.calubs_materials.tungsten_block": "Tungsten Block",
+      "block.ccalubs_materials.platinum_ore": "Platinum Ore",
+      "item.calubs_materials.steel_shovel": "Steel Shovel",
+      "item.calubs_materials.platinum_axe": "Platinum Axe",
+      "block.calubs_materials.osmium_ore": "Osmium Ore",
+      "item.calubs_materials.platinum_pickaxe": "Platinum Pickaxe",
+      "item.calubs_materials.aluminum_ingot": "Aluminum Ingot",
+      "block.calubs_materials.ultinum_block": "Ultinum Block",
+      "block.calubs_materials.deepslate_lead_ore": "Deepslate Lead Ore",
+      "block.calubs_materials.aluminum_ore": "Aluminum Ore",
+      "block.ccalubs_materials.deepslate_titanium_ore": "Deepslate Titanium Ore",
+      "item.calubs_materials.ultinum_sword": "Ultinum Sword",
+      "item.calubs_materials.raw_titanium": "Raw Titanium",
+      "item.calubs_materials.osmium_axe": "Osmium Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Titanium",
+        "children": []
+      },
+      {
+        "name": "Platinum",
+        "children": []
+      },
+      {
+        "name": "Lead",
+        "children": []
+      },
+      {
+        "name": "Silver",
+        "children": []
+      },
+      {
+        "name": "Steel",
+        "children": []
+      },
+      {
+        "name": "Tungsten",
+        "children": []
+      },
+      {
+        "name": "Osmium",
+        "children": []
+      },
+      {
+        "name": "Ultinum",
+        "children": []
+      },
+      {
+        "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "Aluminum",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "calubs_materials",
+    "modName": "Calubs Materials",
+    "version": "1.0.0",
+    "description": "A mod by Calub that adds more materials to minecraft.",
+    "author": "Calub, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.calubsmaterials",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

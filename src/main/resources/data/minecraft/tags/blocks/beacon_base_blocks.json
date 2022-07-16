@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "calubs_materials:lead_block",
+    "calubs_materials:steel_block",
+    "calubs_materials:platinum_block",
+    "calubs_materials:titanium_block",
+    "calubs_materials:osmium_block",
+    "calubs_materials:ultinum_block",
+    "calubs_materials:silver_block",
+    "calubs_materials:tungsten_block"
+  ]
+}

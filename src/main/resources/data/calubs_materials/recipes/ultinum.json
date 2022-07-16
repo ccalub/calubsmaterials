@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "calubs_materials:titanium_ingot"
+    },
+    "1": {
+      "item": "calubs_materials:osmium_ingot"
+    },
+    "2": {
+      "item": "calubs_materials:titanium_ingot"
+    },
+    "3": {
+      "item": "calubs_materials:aluminum_ingot"
+    },
+    "4": {
+      "item": "calubs_materials:steel_ingot"
+    },
+    "5": {
+      "item": "calubs_materials:aluminum_ingot"
+    },
+    "6": {
+      "item": "calubs_materials:titanium_ingot"
+    },
+    "7": {
+      "item": "calubs_materials:lead_ingot"
+    },
+    "8": {
+      "item": "calubs_materials:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "calubs_materials:ultinum_ingot",
+    "count": 1
+  }
+}

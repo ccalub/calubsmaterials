@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:UltinumIngot"
+      },
+      {
+        "value": "CUSTOM:UltinumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:UltinumIngot"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UltinumAxe"
+    },
+    "name": "ultinum_to_axe_l",
+    "namespace": "mod"
+  }
+}

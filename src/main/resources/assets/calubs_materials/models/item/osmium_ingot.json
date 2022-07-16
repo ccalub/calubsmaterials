@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "calubs_materials:items/osmium_ingot"
+  }
+}

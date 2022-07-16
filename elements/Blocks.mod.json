@@ -1,0 +1,41 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      },
+      {
+        "value": "CUSTOM:PlatinumBlock"
+      },
+      {
+        "value": "CUSTOM:LeadBlock"
+      },
+      {
+        "value": "CUSTOM:SilverBlock"
+      },
+      {
+        "value": "CUSTOM:SteelBlock"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:OsmiumBlock"
+      },
+      {
+        "value": "CUSTOM:UltinumBlock"
+      },
+      {
+        "value": "CUSTOM:AluminumBlock"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "blocks",
+    "namespace": "forge"
+  }
+}

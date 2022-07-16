@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="calubs_materials"
+version="1.0.0"
+displayName="Calubs Materials"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Calub, MCreator"
+description='''
+A mod by Calub that adds more materials to minecraft.
+'''
+
+[[dependencies.calubs_materials]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

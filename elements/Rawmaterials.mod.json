@@ -1,0 +1,35 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RawTitanium"
+      },
+      {
+        "value": "CUSTOM:RawPlatinum"
+      },
+      {
+        "value": "CUSTOM:RawLead"
+      },
+      {
+        "value": "CUSTOM:RawSilver"
+      },
+      {
+        "value": "CUSTOM:RawTungsten"
+      },
+      {
+        "value": "CUSTOM:RawOsmium"
+      },
+      {
+        "value": "CUSTOM:RawAluminum"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "raw_materials",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "1": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "2": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "3": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "4": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "5": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "6": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "7": {
+      "item": "calubs_materials:silver_ingot"
+    },
+    "8": {
+      "item": "calubs_materials:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "calubs_materials:silver_block",
+    "count": 1
+  }
+}

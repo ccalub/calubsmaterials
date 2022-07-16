@@ -1,0 +1,41 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "CUSTOM:PlatinumIngot"
+      },
+      {
+        "value": "CUSTOM:LeadIngot"
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:SteelIngot"
+      },
+      {
+        "value": "CUSTOM:TungstenIngot"
+      },
+      {
+        "value": "CUSTOM:OsmiumIngot"
+      },
+      {
+        "value": "CUSTOM:UltinumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminumIngot"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ingots",
+    "namespace": "forge"
+  }
+}
