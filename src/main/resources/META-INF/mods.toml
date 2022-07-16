@@ -4,10 +4,11 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="calubs_materials"
-version="1.0.0"
+version="0.0.4"
 displayName="Calubs Materials"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
+logoFile="logo.png"
 authors="Calub, MCreator"
 description='''
 A mod by Calub that adds more materials to minecraft.
