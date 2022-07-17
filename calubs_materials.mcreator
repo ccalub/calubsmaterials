@@ -21,7 +21,7 @@
       "name": "PlatinumIngot",
       "type": "item",
       "sortid": 3,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "platinum_ingot",
       "path": "~/Platinum"
@@ -57,7 +57,7 @@
       "name": "TungstenIngot",
       "type": "item",
       "sortid": 7,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "tungsten_ingot",
       "path": "~/Tungsten"
@@ -189,7 +189,7 @@
       "name": "PlatinumOreFortune",
       "type": "procedure",
       "sortid": 72,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "platinum_ore_fortune",
       "metadata": {
@@ -357,7 +357,7 @@
       "name": "OsmiumOreFortune",
       "type": "procedure",
       "sortid": 76,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "osmium_ore_fortune",
       "metadata": {
@@ -498,7 +498,7 @@
       "name": "UltinumBlock",
       "type": "block",
       "sortid": 37,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "ultinum_block",
       "path": "~/Ultinum"
@@ -741,7 +741,7 @@
       "name": "TitaniumPickaxe",
       "type": "tool",
       "sortid": 42,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_pickaxe",
       "path": "~/Titanium"
@@ -750,7 +750,7 @@
       "name": "TitaniumSword",
       "type": "tool",
       "sortid": 43,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_sword",
       "path": "~/Titanium"
@@ -759,7 +759,7 @@
       "name": "TitaniumAxe",
       "type": "tool",
       "sortid": 44,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "titanium_axe",
       "path": "~/Titanium"
@@ -840,7 +840,7 @@
       "name": "PlatinumSword",
       "type": "tool",
       "sortid": 47,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "platinum_sword",
       "path": "~/Platinum"
@@ -939,7 +939,7 @@
       "name": "SilverAxe",
       "type": "tool",
       "sortid": 52,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "silver_axe",
       "path": "~/Silver"
@@ -1416,7 +1416,7 @@
       "name": "AluminumFortune",
       "type": "procedure",
       "sortid": 164,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "aluminum_fortune",
       "metadata": {
