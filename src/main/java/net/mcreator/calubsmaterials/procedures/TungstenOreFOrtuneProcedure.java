@@ -1,5 +1,15 @@
 package net.mcreator.calubsmaterials.procedures;
 
+import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.world.level.Level;
+import net.minecraft.world.item.enchantment.Enchantments;
+import net.minecraft.world.item.enchantment.EnchantmentHelper;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.entity.item.ItemEntity;
+import net.minecraft.world.entity.LivingEntity;
+import net.minecraft.world.entity.ExperienceOrb;
+import net.minecraft.world.entity.Entity;
+
 import net.mcreator.calubsmaterials.init.CalubsMaterialsModItems;
 
 public class TungstenOreFOrtuneProcedure {

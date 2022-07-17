@@ -21,7 +21,7 @@
       "name": "PlatinumIngot",
       "type": "item",
       "sortid": 3,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "platinum_ingot",
       "path": "~/Platinum"
@@ -57,7 +57,7 @@
       "name": "TungstenIngot",
       "type": "item",
       "sortid": 7,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "tungsten_ingot",
       "path": "~/Tungsten"
@@ -189,7 +189,7 @@
       "name": "PlatinumOreFortune",
       "type": "procedure",
       "sortid": 72,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "platinum_ore_fortune",
       "metadata": {
@@ -357,7 +357,7 @@
       "name": "OsmiumOreFortune",
       "type": "procedure",
       "sortid": 76,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "osmium_ore_fortune",
       "metadata": {
@@ -390,7 +390,7 @@
       "name": "DeepslateTitaniumOre",
       "type": "block",
       "sortid": 24,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_titanium_ore",
       "path": "~/Titanium"
@@ -399,7 +399,7 @@
       "name": "DeepslatePlatinumOre",
       "type": "block",
       "sortid": 25,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_platinum_ore",
       "path": "~/Platinum"
@@ -408,7 +408,7 @@
       "name": "DeepslateLeadOre",
       "type": "block",
       "sortid": 26,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_lead_ore",
       "path": "~/Lead"
@@ -417,7 +417,7 @@
       "name": "DeepslateTungstenOre",
       "type": "block",
       "sortid": 27,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_tungsten_ore",
       "path": "~/Tungsten"
@@ -426,7 +426,7 @@
       "name": "DeepslateOsmiumOre",
       "type": "block",
       "sortid": 28,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "deepslate_osmium_ore",
       "path": "~/Osmium"
@@ -498,7 +498,7 @@
       "name": "UltinumBlock",
       "type": "block",
       "sortid": 37,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "ultinum_block",
       "path": "~/Ultinum"
@@ -741,7 +741,7 @@
       "name": "TitaniumPickaxe",
       "type": "tool",
       "sortid": 42,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "titanium_pickaxe",
       "path": "~/Titanium"
@@ -750,7 +750,7 @@
       "name": "TitaniumSword",
       "type": "tool",
       "sortid": 43,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "titanium_sword",
       "path": "~/Titanium"
@@ -759,7 +759,7 @@
       "name": "TitaniumAxe",
       "type": "tool",
       "sortid": 44,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "titanium_axe",
       "path": "~/Titanium"
@@ -840,7 +840,7 @@
       "name": "PlatinumSword",
       "type": "tool",
       "sortid": 47,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "platinum_sword",
       "path": "~/Platinum"
@@ -939,7 +939,7 @@
       "name": "SilverAxe",
       "type": "tool",
       "sortid": 52,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "silver_axe",
       "path": "~/Silver"
@@ -1407,7 +1407,7 @@
       "name": "AluminumOre",
       "type": "block",
       "sortid": 17,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "aluminum_ore",
       "path": "~/Aluminum"
@@ -1416,7 +1416,7 @@
       "name": "AluminumFortune",
       "type": "procedure",
       "sortid": 164,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "aluminum_fortune",
       "metadata": {
@@ -1458,7 +1458,7 @@
       "name": "AluminumBlock",
       "type": "block",
       "sortid": 29,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "registry_name": "aluminum_block",
       "path": "~/Aluminum"

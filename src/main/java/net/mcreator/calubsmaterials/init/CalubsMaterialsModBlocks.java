@@ -4,6 +4,12 @@
  */
 package net.mcreator.calubsmaterials.init;
 
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+
+import net.minecraft.world.level.block.Block;
+
 import net.mcreator.calubsmaterials.block.UltinumBlockBlock;
 import net.mcreator.calubsmaterials.block.TungstenOreBlock;
 import net.mcreator.calubsmaterials.block.TungstenBlockBlock;

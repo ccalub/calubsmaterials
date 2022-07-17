@@ -4,6 +4,12 @@
  */
 package net.mcreator.calubsmaterials.init;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.CreativeModeTab;
+
 public class CalubsMaterialsModTabs {
 	public static CreativeModeTab TAB_CALUBS_MATERIALS;
 
